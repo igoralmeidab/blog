@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579857589844.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "199090963",
+    "id" : "BA7D3550",
+    "lastKnownWriteTime" : 1579915914,
+    "last_content_update" : 1579915914943,
+    "path" : "~/academic-kickstart-master/content/post/2020-01-24-visualisations-for-articles.Rmd",
+    "project_path" : "content/post/2020-01-24-visualisations-for-articles.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,13",
+        "scrollLine" : "20"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

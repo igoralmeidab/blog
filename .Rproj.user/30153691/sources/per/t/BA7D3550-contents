@@ -1,0 +1,46 @@
+---
+title: Visualisations for articles
+author: Igor
+date: '2020-01-24'
+slug: visualisations-for-articles
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-01-24T18:19:43+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+The R Package ggplot2 is very powerful, elegant, and popular among scientists. However, not many of them take the necessary time to (learn how to) make graphs suitable for scientific articles. For this reason, I prepared a tutorial/cookbook/gallery with some plots I've used for articles and presentations.
+For this tutorial you need some basic knowledge of R and tidyverse. If that is not your case yet you can start learning it from here(link to r for data science) and here ().
+
+psychology social science research
+
+
+citation, buy me a coffee
+
+
+## Distribution
+
+histogram
+
+scatterplot
+
+aaaa
+
+```{r}
+hist(rnorm(50))
+```
+
+# Mean comparison
+
+Other references
+
+
+# Regression slopes

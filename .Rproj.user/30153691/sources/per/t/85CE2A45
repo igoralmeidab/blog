@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586061347691.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4223719524",
+    "id" : "85CE2A45",
+    "lastKnownWriteTime" : 1586061347,
+    "last_content_update" : 1586061347,
+    "path" : "~/academic-kickstart-master/content/post/2020-04-05-employee-engagement-survey-feedback-with-r.Rmd",
+    "project_path" : "content/post/2020-04-05-employee-engagement-survey-feedback-with-r.Rmd",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
