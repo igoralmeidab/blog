@@ -3,7 +3,7 @@
     "path": "~/academic-kickstart-master/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "1205180238",
+    "hash": "3856964271",
     "contents": "",
     "dirty": false,
     "created": 1629442293455.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,21",
+        "cursorPosition": "13,20",
         "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1629629389,
+    "lastKnownWriteTime": 1629730955,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1629629389847,
+    "last_content_update": 1629730955773,
     "read_only": false,
     "read_only_alternatives": []
 }
