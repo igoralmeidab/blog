@@ -1,0 +1,4 @@
+[submodule "public1"]
+	path = public1
+	url = https://github.com/igoralmeidab/igoralmeidab.github.io.git
+	branch = main
