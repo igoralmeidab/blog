@@ -118,7 +118,7 @@ address = {street = "2-1-15 Nishiai", city = "Ibaraki", region = "Osaka, Japan",
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "b_igor"
 
 ############################
 ## Regional Settings
@@ -126,7 +126,7 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "2006-01-02"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
@@ -184,7 +184,7 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
+  post_view = 0
   publication_view = 2
   talk_view = 2
 

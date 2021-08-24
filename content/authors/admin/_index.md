@@ -24,6 +24,7 @@ interests:
 - Cultural and Social Psychology
 - Data Science
 - Emotion
+- Natural Language Processing (NLP)
 
 education:
   courses:
@@ -51,6 +52,11 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NcFqUK8AAAAJ
+  
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Igor-De-Almeida-2
+  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
