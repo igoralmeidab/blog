@@ -74,5 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Social Psychologist specialised in Cultural Psychology. I have experience conducting experiments, analysing data, writing up and presenting results. I have done experiments in English, Portuguese and Japanese.
-Most of my experiments involve some sort of data analysis ('data science', if you will), such as analysis of public (large) datasets and text analysis. I'm also trained in classical experimentation methods in Social Psychology. 
+I am a Cultural Psychologist, a Social Psychologist specialised in culture. I have experience conducting experiments, analysing data, writing up and presenting results. I have done experiments in English, Portuguese and Japanese.
+Most of my experiments involve some sort of data analysis/data science, such as analysis of public (large) datasets, machine learning, and natural language processing (NLP). I'm also trained in classical experimentation methods in Social Psychology. 
+Currently I am working at Otemon Gakuin University as a Specially Appointed Assistant Professor, being responsible for this university's institutional research, and teaching psychology and statistics.
