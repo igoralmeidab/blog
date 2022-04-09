@@ -14,8 +14,8 @@ role: Cultural Psychologist
 
 # Organizations/Affiliations
 organizations:
-- name: Otemon Gakuin University
-  url: "https://www.otemon.ac.jp/english.html"
+- name: Kyoto University
+  url: "http://kokoro.kyoto-u.ac.jp/en2/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Cultural studies, social psychology, and data science.
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:i-almeida@otemon.ac.jp".
+  link: '#contact'  # For a direct email link, use "mailto:dealmeida .igor .b04@kyoto-u .jp".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/igor-de-almeida-1a332925/
@@ -76,4 +76,4 @@ user_groups:
 
 I am a Cultural Psychologist, a Social Psychologist specialised in culture. I have experience conducting experiments, analysing data, writing up and presenting results. I have done experiments in English, Portuguese and Japanese.
 Most of my experiments involve some sort of data analysis/data science, such as analysis of public (large) datasets, machine learning, and natural language processing (NLP). I'm also trained in classical experimentation methods in Social Psychology. 
-Currently I am working at Otemon Gakuin University as a Specially Appointed Assistant Professor, being responsible for this university's institutional research, and teaching psychology and statistics.
+Currently I am working at Kyoto University as a Program Specific Assistant Professor.
